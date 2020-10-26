@@ -1,0 +1,92 @@
+<!DOCTYPE HTML>
+<!--iPhone web project-->
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Iphone 6 Review</title>
+		<meta name="viewport" content width="device-width, initial-scale=1">
+		<h1 style="color:white"><center>iPhone 6 Review</center></h1>
+		<h2 style="color:757F85"><center>A complete overview of Apple's new iPhone</center></h2>
+	</head>
+	<body style="background-color:#ACE8E4;">
+		<center><img src="iphone1.jpg"></center>
+		<br>
+		<br>
+		<center><table style="background-color:B8F2C7;" text=green Border=9 width=25%><Font face="Tahoma" size=6>
+			<caption>iPhone 6 Overview</caption>
+				<tr>
+					<th>Specifications</th>
+					<th>Dimension</th>
+				</tr>
+				<tr>
+					<td>Screen Size</td>
+					<td>4.7 inches</td>
+				</tr>
+				<tr>
+					<td>Height</td>
+					<td>5.44 inches</td>
+				</tr>
+				<tr>
+					<td>Width</td>
+					<td>2.64 inches</td>
+				</tr>
+				<tr>
+					<td>Thickness</td>
+					<td>.27 inches</td>
+				</tr>
+				<tr>
+					<td>Camera</td>
+					<td>8 MP</td>
+				</tr>
+				<tr>
+					<td>Battery</td>
+					<td>1810 mAh</td>
+				</tr>
+		</center></table>
+		<br>
+		<br>
+		<h3><center>Introduction and Design</center></h3>
+			<p> <Font face="Tahoma" size=6>The new iPhone 6 marks Apple's first radical redesign of the iPhone since 2012. This year Apple has shown us a willingness to listen to the consumer and break down some of the barriers in their closed ecosystem. Apple has increased the size of the iPhone from 4.0 inches to 4.7 inches which addresses the primary criticism amongst consumers, which was the smaller screen size of the previous models. The iPhone 6 is the thinnest and sleekest iPhone model to date. The low weight and more rounded metal design give the iPhone 6 a comfortable, premium feel when in the hand. The new larger 750x1334 resolution Retina Display features a curved, scratch resistant screen that stretches to the edges of the device and seamlessly transitions to the aluminum back portion of the handset. This seamless design language is the foundation of what Apple's upgraded version of the iPhone is aiming to achieve this year. Apple is striving to make Apple products fit into our daily lives with less resistance by fine tuning their tightly controlled operating system iOS 8. The power button has been moved from the top to the right side of the device to accommodate the new larger screen. Overall the design is what you've come to expect from an iPhone with the signature, circular home button, which houses the fingerprint scanner, to the silencer switch located above the volume rockers. Now that we've looked at the hardware lets take a closer look at the software.</p>
+			<center><img src="iphone2.jpg"></center>
+		<h3><center>iOS 8</center></h3>
+			<p>With iOS 8, Apple hasn't designed a major, visual overhaul of iOS like iOS 7 did. Instead, iOS 8 focuses on polishing the user experience as well as adding several useful features to make every day life more convenient. The iPhone 6 has a new feature called reachability which will bring the top of the screen down to middle of the screen after a double tap to the home button. This feature will make for much easier one handed use when your other hand is occupied. Another useful feature is continuity which fits in with Apple's seamless design language. This feature allows you to start a task on your iPhone and finish it on another Apple device. For example you can start an email on your iPhone and edit/send it on your iPad. They lifted some previously existing restrictions, such as, allowing support for third-party keyboards and widgets in the notification menu. The whole goal is to make using Apple products easier in your daily life.</p>
+			<center><img src="iphone3.jpg"></center>
+		<h3><center>Call Quality and Battery Life</center></h3>
+			<p>The phone is the most widely used application on any smartphone. The iPhone 6 has learned from past mistakes. This year they've provided ample antenna reception which is evident by the darker lines that are around the back of the device. The call quality is excellent with 1 bar better average reception compared to the iPhone 5s in the same area and on the same network. Callers say the active noise cancellation technology is much improved over previous models and speaker volume is adequate for having speaker phone conversations. The battery has always been one of the biggest weaknesses of iPhones. Although, Apple has upgraded the battery size from 1440 mAh to 1810 mAh, users report only marginally better battery life compared to previous models. Although the battery has a larger capacity, it needs to power a significantly larger screen which offsets most gains. Of course, battery life is largely dependent on individual factors such as screen brightness, signal strength and personal usage.</p>
+			<center><img src="iphone4.jpg"></center>
+		<h3><center>Other Notable Features</center></h3>
+			<p>This year Apple has brought in new features which are very appealing. One of those new features is Apple Pay, which allows the iPhone 6 to make mobile payments to participating retailers using an NFC chip. Although other mobile platforms use NFC for a wide variety of applications, Apple has restricted NFC usage to strictly Apple Pay related operations. Although the camera is still at 8 MP, the unit as a whole is noticeably better with a larger sensor that allows more light to come in. The larger sibling of the iPhone 6, the iPhone 6+, features OIS (Optical Image Stabilization), which allows for better night time shots and smoother, less shaky video. Other notable features are the updated fingerprint scanner, which allows you to unlock the phone faster and slow motion capabilities running at 240 fps. The iPhone 6 is a solid upgrade over the iPhone 5s.</p>
+			<center><img src="iphone5.jpg"></center>
+		<h3><center>Conclusions</center></h3>
+			<p>Apple has continued to solidify their reputation of integrating technology better than their competition with the newly refined iPhone 6. Apple continues to sell record numbers of handsets and reaffirms their grasp on the premium smartphone market by making deals such as the Beats acquisition. The iPhone 6 takes previously existing technologies, such as NFC, used with Apple Pay and integrates the function much better than their competition does. Overall, you'd be happy with latest model of the best selling smartphone series ever.</p>
+			<center><img src="iphone6.jpg"></center>
+		<br>
+		<br>
+		<h6 style="text-align:left;">Available Carriers</h6>
+		<td>
+		<ul style="text-align:left;">
+			<li>Verizon</li>
+			<li>AT&T</li>
+			<li>Sprint</li>
+			<li>Tmobile</li>
+		</ul>
+		</td>
+		<hr width=95% size=3>
+		<h3>Iphone 6 vs. Competition</h3>
+			<p><a href="http://www.phonearena.com/phones/compare/Apple-iPhone-6,Samsung-Galaxy-S5/phones/8346,8202"><img src="iphone7.jpg"></a></p>
+		<h3>Iphone 6 vs. Iphone 6+<h3>
+			<p><a href="http://www.trustedreviews.com/opinions/iphone-6-vs-iphone-6-plus"><img src="iphone8.jpg"></a><p>
+		<hr width=95% size=3>
+		<table style="background-color:#E8AED4;" align=center border=0 cols=5 width=65%>
+			<tr align=center>
+				<td><a href="http://www.verizonwireless.com/">Verizon</a></td>
+				<td width="1%">|</td>
+				<td><a href="http://www.att.com/shop/wireless.html">AT&T</a></td>
+				<td width="1%">|</td>
+				<td><a href="http://www.sprint.com/mysprint/pages/sl/global/index.jsp">Sprint</a></td>
+				<td width="1%">|</td>
+				<td><a href="http://www.t-mobile.com/">Tmobile</a></td>
+				<td width="1%">|</td>
+		</table>
+	</body>
+</html>
